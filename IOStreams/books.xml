@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books xmlns="www.bookshop.ua">
+  <Book Available="true">
+    <Id>1045</Id>
+    <Name>C#</Name>
+    <Author>Andrew Troelsen</Author>
+    <Price>820.45</Price>
+    <Genre>Progr</Genre>
+  </Book>
+  <Book Available="true">
+    <Id>1012</Id>
+    <Name>C++</Name>
+    <Author>Stephen Prata</Author>
+    <Price>520.45</Price>
+    <Genre>Progr</Genre>
+  </Book>
+  <Book Available="false">
+    <Id>4551</Id>
+    <Name>SQL</Name>
+    <Author>C Date</Author>
+    <Price>510.99</Price>
+    <Genre>Progr</Genre>
+  </Book>
+  <Book Available="false">
+    <Id>4551</Id>
+    <Name>SQL</Name>
+    <Author>C Date</Author>
+    <Price>510.99</Price>
+    <Genre>Progr</Genre>
+  </Book>
+</Books>
